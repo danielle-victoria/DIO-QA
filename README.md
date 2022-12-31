@@ -1,4 +1,4 @@
-# Laboratório 1  
+# Laboratório 1  💻
 Atividade do DIO - GFT Quality Assurance Para Mulheres    
 O dia a dia de um QA: A prática de testes manuais funcionais    
 
